@@ -9,3 +9,7 @@ html,
   margin: auto;
   text-align: center;
 }
+
+.title {
+  color: black;
+}
